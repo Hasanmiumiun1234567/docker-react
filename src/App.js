@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Does github/travis-ci workflow work?
           </a>
         </header>
       </div>
